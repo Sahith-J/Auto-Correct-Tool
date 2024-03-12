@@ -1,4 +1,4 @@
-# AutoCorrect-Tool
+# Auto-Correct-Tool
 Auto Correct Tool
 
 This project demonstrates an auto-correct tool implemented in Python. The tool takes a sentence as input and corrects any misspelled words or suggests the closest alternatives based on edit distance.
